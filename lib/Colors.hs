@@ -1,0 +1,1 @@
+/home/ghoul/.cache/wal/colors.hs
